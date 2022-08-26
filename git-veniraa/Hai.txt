@@ -48,3 +48,18 @@ Pemilik : Firman
 -> Data Warehouse dan OLAP			(3)
 
 Total SKS					(22)
+======================================================================================
+============================ List MK Diambil Semester 5 ===============================
+Pemilik : Venira
+	--- Mk Reguler ---
+-> KKN						(2)
+-> Pemrograman Mobile				(3)
+-> Komputer dan Masyarakat			(2)
+-> Manajemen Rantai Pasok			(3)
+-> Data Warehouse dan OLAP			(3)
+-> Manajemen Proyek Sistem Informasi		(3)
+-> PKTI						(3)
+-> Data Mining					(3)
+
+Total SKS					(22)
+======================================================================================
