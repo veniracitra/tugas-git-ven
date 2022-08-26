@@ -34,3 +34,17 @@
 	--- MK Umum ---
 -> Kewirausahaan				(3)
 -> Kepemimpinan					(2)
+
+============================ List MK Diambil Semester 5 ===============================
+Pemilik : Firman
+	--- Mk Reguler ---
+-> Interaksi Manusia dan Komputer 		(3)
+-> KKN						(2)
+-> Pemrograman Mobile				(3)
+-> Komputer dan Masyarakat			(2)
+-> Manajemen Rantai Pasok			(3)
+-> Sistem Pendukung Keputusan			(3)
+-> Manajemen Rantai Pasok			(3)
+-> Data Warehouse dan OLAP			(3)
+
+Total SKS					(22)
