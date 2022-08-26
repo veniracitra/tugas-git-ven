@@ -1,0 +1,36 @@
+============================ List MK Belum Diambil ===============================
+
+	--- Mk Reguler ---
+-> Interaksi Manusia dan Komputer 		(3)
+-> PKL						(2)
+-> KKN						(2)
+-> Pemrograman Mobile				(3)
+-> Komputer dan Masyarakat			(2)
+-> Manajemen Rantai Pasok			(3)
+-> Pemrograman Terintegrasi			(3)
+-> Etika Komputer				(3)
+-> Metodologi Penelitian			(2)
+-> Sistem Pendukung Keputusan			(3)
+-> Manajemen Rantai Pasok			(3)
+-> Data Warehouse dan OLAP			(3)
+-> Manajemen Proyek Sistem Informasi		(3)
+-> PKTI						(3)
+-> Data Mining					(3)
+-> Audit Sistem Informasi			(3)
+
+	--- MK Pilihan ---
+-> Manajemen Layanan Teknologi Informasi	(3)
+-> Manajemen Kualitas				(3)
+-> Sistem Informasi Geografis			(3)
+-> Jaringan Semantik				(3)
+-> Sistem Berbasis Pengetahuan			(3)
+-> Big Data dan IOT				(3)
+-> Manajemen Layanan Teknologi Informasi	(3)
+-> Perencanaan Strategis Sistem Informasi	(3)
+-> Pemodelan dan Simulasi			(3)
+-> Sistem Informasi Eksekutif			(3)
+-> Manajemen Kualitas				(3)
+
+	--- MK Umum ---
+-> Kewirausahaan				(3)
+-> Kepemimpinan					(2)
